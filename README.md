@@ -151,4 +151,4 @@ Open a pull request 🎉
 
 🤖 Google Generative AI – Powering AI code reviews.
 
-🔥 GrooveCode.AI – Code smarter, collaborate better, debug faster. 🚀   MAKE THE HAEADING BOLD HERE
+🔥 GrooveCode.AI – Code smarter, collaborate better, debug faster. 🚀  
