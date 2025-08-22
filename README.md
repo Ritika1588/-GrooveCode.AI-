@@ -1,4 +1,4 @@
-👨‍💻 GrooveCode.AI 🤖✨
+# 👨‍💻 **GrooveCode.AI 🤖**
 
 GrooveCode.AI is a next-gen real-time collaborative code editor built on the MERN stack.
 It empowers 3–5 developers to write, edit, and debug code together live in the browser with:
@@ -11,7 +11,7 @@ It empowers 3–5 developers to write, edit, and debug code together live in the
 
 Whether you’re working on projects, hackathons, or learning to code with friends — GrooveCode.AI makes coding smarter, faster, and more collaborative. 🚀
 
-🌟 Features
+## 🌟 **Features**
 
 🖊️ Real-Time Editing – Multiple users coding together seamlessly.
 
@@ -25,9 +25,9 @@ Whether you’re working on projects, hackathons, or learning to code with frien
 
 📦 MERN Stack – Scalable & production-ready.
 
-🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
-Frontend:
+### **Frontend**
 
 React.js ⚛️
 
@@ -35,7 +35,7 @@ Tailwind CSS 🎨
 
 Monaco Editor ✨
 
-Backend:
+### **Backend**
 
 Node.js 🌐
 
@@ -45,12 +45,12 @@ MongoDB Atlas 🍃
 
 Socket.io 🔗
 
-AI Integration:
+### **AI Integration**
 
 Google Generative AI API 🤖
 
-🚀 Getting Started
-✅ Prerequisites
+## 🚀 **Getting Started**
+### ✅ **Prerequisites**
 
 Node.js (v16+)
 
@@ -58,12 +58,12 @@ MongoDB Atlas or local MongoDB instance
 
 Google Generative AI API Key
 
-📥 Installation
+## 📥 **Installation**
 # Clone repo
 git clone https://github.com/your-username/GrooveCodeAI.git
 cd GrooveCodeAI
 
-Backend Setup
+## **Backend Setup**
 cd backend
 npm install
 npm start
@@ -75,7 +75,7 @@ PORT=5000
 MONGO_URI=your_mongo_uri
 AI_API_KEY=your_google_ai_key
 
-Frontend Setup
+## **Frontend Setup**
 cd frontend
 npm install
 npm run dev
@@ -85,27 +85,27 @@ Create a .env file in /frontend
 
 VITE_API_URL=http://localhost:5000
 
-📡 API Example
+## 📡 **API Example**
 
-Endpoint:
+
 
 POST /api/review
 
 
-Request:
+**Request:**
 
 {
   "code": "function add(a, b) { return a + b }"
 }
 
 
-Response:
+**Response:**
 
 {
   "review": "Consider adding input validation to avoid unexpected errors."
 }
 
-📈 Use Cases
+## 📈 **Use Cases**
 
 👩‍💻 Pair Programming – Code together remotely.
 
@@ -115,7 +115,7 @@ Response:
 
 💼 Enterprise Teams – AI-assisted code reviews for productivity.
 
-🌱 Roadmap
+## 🌱 **Roadmap**
 
 📊 Session analytics & reports
 
@@ -127,7 +127,7 @@ Response:
 
 🧑‍🏫 AI mentor mode (explain code line-by-line)
 
-👥 Contributing
+## 👥 **Contributions**
 
 We welcome contributions! 🚀
 
@@ -141,7 +141,7 @@ Push to branch: git push origin feature/AmazingFeature
 
 Open a pull request 🎉
 
-🙌 Acknowledgements
+## 🙌 **Acknowledgements**
 
 📝 Monaco Editor – For VS Code–like experience in browser.
 
@@ -151,9 +151,4 @@ Open a pull request 🎉
 
 🤖 Google Generative AI – Powering AI code reviews.
 
-🔥 GrooveCode.AI – Code smarter, collaborate better, debug faster. 🚀
-
-
-
-
-
+🔥 GrooveCode.AI – Code smarter, collaborate better, debug faster. 🚀   MAKE THE HAEADING BOLD HERE
