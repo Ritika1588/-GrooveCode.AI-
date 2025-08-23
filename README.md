@@ -1,5 +1,7 @@
 # 👨‍💻 **GrooveCode.AI 🤖**
 
+
+
 GrooveCode.AI is a next-gen real-time collaborative code editor built on the MERN stack.
 It empowers 3–5 developers to write, edit, and debug code together live in the browser with:
 
@@ -58,32 +60,74 @@ MongoDB Atlas or local MongoDB instance
 
 Google Generative AI API Key
 
-## 📥 **Installation**
-# Clone repo
-git clone https://github.com/your-username/GrooveCodeAI.git
-cd GrooveCodeAI
-
-## **Backend Setup**
-cd backend
-npm install
-npm start
+##📥 **Installation**
+###📂 Project Setup  
 
 
-Create a .env file in /backend
 
-PORT=5000
-MONGO_URI=your_mongo_uri
-AI_API_KEY=your_google_ai_key
+1. **Clone the repository**
 
-## **Frontend Setup**
-cd frontend
-npm install
-npm run dev
+   ```bash
+   git clone https://github.com/Ritika1588/-GrooveCode.AI-.git
 
+2. **Go to the project directory**
+   ```bash
+   cd GrooveCodeAI
 
-Create a .env file in /frontend
+3. **Backend Setup**
+   ```bash
+   cd backend
+   npm install
+   
 
-VITE_API_URL=http://localhost:5000
+4. **Environment Configuration**
+   ```bash
+   PORT=5000
+   MONGO_URI=your_mongodb_connection_string
+   AI_API_KEY=your_google_generative_ai_api_key
+   JWT_SECRET=your_jwt_secret_key
+   NODE_ENV=development
+
+5. **Start the backend server**
+    ```bash
+    npm start
+    npm run dev
+
+6. **Preview production build**
+    ```bash
+    npm run preview
+
+7. **Frontend Setup**
+   ```bash
+   cd frontend
+   npm install
+   
+
+8. **Environment Configuration**
+    Create a .env file in the /frontend directory:
+   ```bash
+   VITE_API_URL=http://localhost:5000
+   VITE_APP_NAME=GrooveCodeAI
+
+5. **Start the development server**
+    ```bash
+    npm start
+    npm run dev
+
+6. **Preview production build**
+    ```bash
+    npm run preview
+
+Open your browser and navigate to http://localhost:5000
+
+## 📸 Demo 
+
+<img width="1587" height="673" alt="image" src="https://github.com/user-attachments/assets/822731cc-7b62-4336-9e2d-cd0765fac9ef" />
+
+### Login Page
+
+<img width="622" height="341" alt="image" src="https://github.com/user-attachments/assets/0e24a3d4-86d8-46e2-b402-89a84e396234" />
+
 
 ## 📡 **API Example**
 
