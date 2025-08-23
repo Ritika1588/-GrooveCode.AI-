@@ -169,8 +169,6 @@ POST /api/review
 
 🔐 Role-based access control
 
-☁️ Cloud deployment (Vercel + Render/Heroku)
-
 🧑‍🏫 AI mentor mode (explain code line-by-line)
 
 ## 👥 **Contributions**
