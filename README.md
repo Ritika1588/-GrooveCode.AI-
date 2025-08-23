@@ -60,8 +60,10 @@ MongoDB Atlas or local MongoDB instance
 
 Google Generative AI API Key
 
-##📥 **Installation**
-###📂 Project Setup  
+### 📥 Installation
+
+
+## 📂 Project Setup  
 
 
 
